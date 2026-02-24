@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_volatility_estimators'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Implement five volatility estimators as functions. Download AAPL OHLC data via yfinance. Compute 20-day rolling volatility for each estimator. Plot comparison of all estimators'
+
+Keywords: 'volatility estimators, Parkinson, Garman-Klass, Rogers-Satchell, Yang-Zhang, AAPL'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

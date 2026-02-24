@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_ohlc_orderbook'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download recent AAPL OHLC data via yfinance (5 trading days). Create candlestick chart using mplfinance. Simulate order book depth chart (bid/ask levels)'
+
+Keywords: 'OHLC, candlestick, order book, bid-ask spread, market microstructure, AAPL'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

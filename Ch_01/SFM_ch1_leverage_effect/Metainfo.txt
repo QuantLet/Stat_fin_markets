@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_leverage_effect'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download S&P 500 (^GSPC) data via yfinance. Fit GJR-GARCH(1,1) model using arch package. Plot the news impact curve showing asymmetric volatility response. Negative shocks (bad news) increase volatility more than positive shocks'
+
+Keywords: 'leverage effect, GJR-GARCH, news impact curve, asymmetric volatility, S&P 500'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

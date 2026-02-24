@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_returns'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download MSFT stock data via yfinance. Compute simple and log returns. Plot returns time series. Scatter plot: simple vs log returns. Histogram comparison with Normal overlay. Compute skewness and kurtosis'
+
+Keywords: 'simple returns, log returns, skewness, kurtosis, Jarque-Bera, MSFT, distribution'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

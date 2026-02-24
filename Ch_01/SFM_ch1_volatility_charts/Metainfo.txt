@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_volatility_charts'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download AAPL OHLC data via yfinance. 30-day rolling close-to-close volatility. EWMA (lambda=0.94) vs Historical volatility comparison. Horizontal bar chart of theoretical RE ratios. Efficient frontier: simulated 5-asset portfolio, CML, tangency'
+
+Keywords: 'rolling volatility, EWMA, efficiency, efficient frontier, CML, tangency portfolio'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

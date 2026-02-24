@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_vol_comparison'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download AAPL OHLC data via yfinance. Compute CC, Parkinson, Garman-Klass, Rogers-Satchell, Yang-Zhang estimators. Bar chart comparing all estimators on same data. GARCH conditional vs rolling historical volatility. Realized volatility signature plot. Square root of time scaling visualization'
+
+Keywords: 'volatility comparison, conditional, unconditional, GARCH, signature plot, sqrt-T rule'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

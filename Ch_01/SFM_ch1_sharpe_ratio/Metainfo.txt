@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_sharpe_ratio'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download SPY, QQQ, GLD, TLT, VNQ ETF data. Compute individual asset statistics. Generate 10,000 random portfolios (Monte Carlo). Find maximum Sharpe ratio portfolio. Plot efficient frontier with optimal portfolio'
+
+Keywords: 'Sharpe ratio, efficient frontier, portfolio optimization, Monte Carlo, CML, ETF'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

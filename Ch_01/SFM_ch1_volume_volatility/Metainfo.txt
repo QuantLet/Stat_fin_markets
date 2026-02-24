@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_volume_volatility'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download S&P 500 (^GSPC) data via yfinance. Create scatter plot of daily volume vs absolute returns. Add regression line and correlation coefficient. Illustrates the volume-volatility stylized fact'
+
+Keywords: 'volume, volatility, correlation, scatter plot, S&P 500, volume-volatility'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

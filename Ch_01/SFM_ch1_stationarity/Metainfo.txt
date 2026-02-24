@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_stationarity'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download S&P 500 (^GSPC) data via yfinance. Plot price level vs returns to illustrate stationarity. Plot simple vs log returns divergence for different return magnitudes'
+
+Keywords: 'stationarity, log-returns, price level, S&P 500, I(1), I(0), simple vs log returns'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch1_returns_analysis'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download S&P 500 (^GSPC) data 2015-2024 via yfinance. Cumulative log-return path with shaded area. Density comparison: Normal vs fat-tailed (Student-t) vs left-skewed. Drawdown chart: price path with MDD highlighted'
+
+Keywords: 'cumulative returns, density, fat tails, drawdown, maximum drawdown, S&P 500'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Tuesday, 24 February 2026'

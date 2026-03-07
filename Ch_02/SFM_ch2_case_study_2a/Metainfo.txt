@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch2_case_study_2a'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Case study 2a: Classical distributions applied to S&P 500, BET, and Bitcoin. Downloads daily prices, computes log-returns and descriptive statistics, fits Normal and Student-t distributions, creates QQ-plots, runs normality tests (Jarque-Bera, Shapiro-Wilk, Anderson-Darling, KS), and analyses stylized facts (volatility clustering, excess kurtosis, skewness)'
+
+Keywords: 'case study, Normal distribution, Student-t, QQ-plot, normality tests, stylized facts, volatility clustering, log-returns, S&P 500, BET, Bitcoin'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Saturday, 7 March 2026'

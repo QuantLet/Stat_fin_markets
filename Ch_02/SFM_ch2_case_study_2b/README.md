@@ -1,0 +1,20 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
+
+```
+Name of QuantLet: SFM_ch2_case_study_2b
+
+Published in: Statistics of Financial Markets (SFM)
+
+Description: Case study 2b: Heavy tails on global markets. Fits advanced distributions (Student-t, GED, Stable) to S&P 500, BET, and Bitcoin, analyses tail behaviour via log-log survival plots and Hill estimator, compares VaR/ES under Normal, Student-t, and EVT-GPD approaches
+
+Keywords: case study, heavy tails, Hill estimator, tail index, EVT, GPD, VaR, Expected Shortfall, Stable distribution, GED, log-log survival, S&P 500, BET, Bitcoin
+
+Author: Daniel Traian Pele
+
+Submitted: Saturday, 7 March 2026
+
+```

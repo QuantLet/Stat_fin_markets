@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch2_pareto_analysis'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Pareto distribution analysis: PDF/CDF visualization, log-log survival plot, MLE parameter estimation, Hill estimator on S&P 500 tail losses, Zipf law for market capitalizations, tail fitting with QQ-plot and threshold sensitivity'
+
+Keywords: 'Pareto distribution, power law, tail index, Hill estimator, MLE, heavy tails, Zipf law, market capitalization, QQ-plot, tail fitting, S&P 500'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Monday, 10 March 2026'

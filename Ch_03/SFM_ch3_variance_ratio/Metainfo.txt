@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch3_variance_ratio'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download S&P 500, FTSE 100, BTC-USD, BET daily data via yfinance. Compute variance ratio VR(q) for q = 2, 5, 10, 20. Implement Lo-MacKinlay heteroscedasticity-robust z-statistic. Panel A: Bar chart of VR(q) grouped by asset. Panel B: Rolling VR(5) for S&P 500 and BTC with crisis shading'
+
+Keywords: 'variance ratio, Lo-MacKinlay, random walk, rolling variance ratio, weak-form efficiency, heteroscedasticity-robust, S&P 500, Bitcoin'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Sunday, 29 March 2026'

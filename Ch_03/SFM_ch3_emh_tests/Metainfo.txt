@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch3_emh_tests'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download stock data via yfinance. Test weak-form EMH with Ljung-Box on returns. Test weak-form EMH with Ljung-Box on squared returns. Plot ACF of returns and ACF of squared returns. Demonstrate: returns are nearly uncorrelated but. squared returns exhibit significant autocorrelation'
+
+Keywords: 'efficient market hypothesis, EMH, autocorrelation, Ljung-Box, runs test, ACF, squared returns, volatility clustering, weak-form efficiency'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Sunday, 29 March 2026'

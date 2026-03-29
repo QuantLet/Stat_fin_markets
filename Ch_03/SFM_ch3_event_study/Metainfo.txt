@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch3_event_study'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download AAPL and S&P 500 daily data via yfinance. Identify AAPL earnings dates (fixed for reproducibility). Estimate market model on [-250, -11] window. Compute abnormal returns (AR) and cumulative AR (CAR) on [-5, +20]. Panel A: Average CAR with 95% confidence band. Panel B: Average AR bar chart for event window'
+
+Keywords: 'event study, abnormal returns, cumulative abnormal returns, CAR, market model, AAPL earnings, semi-strong efficiency'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Sunday, 29 March 2026'

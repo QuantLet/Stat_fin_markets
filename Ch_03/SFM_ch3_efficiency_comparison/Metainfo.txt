@@ -1,0 +1,11 @@
+Name of QuantLet: 'SFM_ch3_efficiency_comparison'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download S&P 500, BTC-USD, BET, FTSE 100, Nikkei 225 daily data via yfinance. For each market: autocorrelation rho(1), Ljung-Box Q(10), Runs test,. Variance Ratio VR(5), Hurst exponent H. Panel A: Heatmap of efficiency metrics (green=efficient, red=inefficient). Panel B: Scatter plot of H vs VR(5) with market labels'
+
+Keywords: 'market efficiency comparison, cross-asset, autocorrelation, variance ratio, runs test, Hurst exponent, emerging markets, heatmap'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Sunday, 29 March 2026'

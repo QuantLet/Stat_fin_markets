@@ -1,0 +1,15 @@
+Name of QuantLet: 'SFM_ch4_car_scenarios'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Compute a real event study on Apple (AAPL) earnings announcements 2022-2023, using the market model with SPY as market proxy. Aggregate Cumulative Abnormal Returns (CAR) across 8 events on a [-10, +10] day window. Compare with 3 theoretical scenarios: (a) pure surprise (EMH semi-strong), (b) information leak, (c) Post-Earnings Announcement Drift (PEAD).'
+
+Keywords: 'event study, CAR, cumulative abnormal return, PEAD, EMH semi-strong, Apple, AAPL, market model, yfinance'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Sunday, 20 April 2026'
+
+Datafile: 'yfinance AAPL, SPY + 8 earnings announcement dates'
+
+Output: 'sfm_ch4_car_scenarios.pdf'

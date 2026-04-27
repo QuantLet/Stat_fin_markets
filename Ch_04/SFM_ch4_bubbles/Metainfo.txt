@@ -1,0 +1,15 @@
+Name of QuantLet: 'SFM_ch4_bubbles'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Download real data for 3 historical bubbles via yfinance: Nasdaq Composite (^IXIC) 1998-2002 (dotcom), S&P 500 (^GSPC) 2005-2009 (subprime proxy), Bitcoin (BTC-USD) 2019-2023 (crypto). Normalize each series to peak = 100 and plot aligned on a common time axis to highlight the common bubble-crash pattern.'
+
+Keywords: 'bubbles, dotcom, subprime, crypto, Bitcoin, Nasdaq, behavioral finance, EMH, crashes, yfinance'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Sunday, 20 April 2026'
+
+Datafile: 'yfinance ^IXIC, ^GSPC, BTC-USD'
+
+Output: 'sfm_ch4_bubbles.pdf'

@@ -1,0 +1,15 @@
+Name of QuantLet: 'SFM_ch4_rw_vs_nonrw'
+
+Published in: 'Statistics of Financial Markets (SFM)'
+
+Description: 'Visual comparison of three simulated return-generating processes plus real S&P 500: (a) pure random walk r_t = epsilon_t, (b) momentum AR(1) r_t = 0.4 r_{t-1} + epsilon, (c) mean-reverting AR(1) r_t = -0.4 r_{t-1} + epsilon, (d) real S&P 500 daily 2018-2025. Top row shows price paths, bottom row shows ACF of returns. Demonstrates that all four price paths look qualitatively similar but statistical properties (ACF) clearly differentiate RW from non-RW.'
+
+Keywords: 'random walk, AR(1), momentum, mean reversion, simulation, ACF, EMH, weak form, S&P 500, yfinance'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Saturday, 26 April 2026'
+
+Datafile: 'simulation + yfinance ^GSPC (2018-2025)'
+
+Output: 'sfm_ch4_rw_vs_nonrw.pdf'

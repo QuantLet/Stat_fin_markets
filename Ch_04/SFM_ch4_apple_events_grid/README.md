@@ -1,0 +1,24 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
+
+```
+Name of QuantLet: SFM_ch4_apple_events_grid
+
+Published in: Statistics of Financial Markets (SFM)
+
+Description: Six individual Apple (AAPL) earnings event studies plotted in a 2x3 grid, each showing CAR over [-10, +15]. Uses SPY as market proxy and a [-250, -11] estimation window. Highlights how individual events differ in shape: pure surprise, leak, PEAD, overreaction.
+
+Keywords: event study, AAPL, earnings, CAR, EMH, semi-strong, multiple events, market model, yfinance
+
+Author: Daniel Traian Pele
+
+Submitted: Saturday, 26 April 2026
+
+Datafile: yfinance AAPL, SPY (2018-2024)
+
+Output: sfm_ch4_apple_events_grid.pdf
+
+```

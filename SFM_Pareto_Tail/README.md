@@ -9,7 +9,7 @@ Name of QuantLet: SFM_Pareto_tail
 
 Published in: Stat_fin_markets
 
-Description: Estimates the parameters of Pareto-like distribution for the left
+Description: Estimates the parameters of Pareto-like distribution for the left tail of log-returns.
 
 Keywords: Pareto, tail, log-return
 

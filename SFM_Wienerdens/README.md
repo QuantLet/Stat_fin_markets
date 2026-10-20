@@ -17,11 +17,11 @@ Author: Daniel Traian Pele
 
 Submitted: Fri, 22 March 2019
 
-Input:  dt - delta t
+Input: dt - delta t c - constant s - time moment a - left limit b - right limit x0 - initial value of the process
 
 Output: Plot of Wiener process simulation and its conditional density.
 
-Example: An example is produced for the values: [dt, c, s]=
+Example: An example is produced for the values: [dt, c, s]= [0.01, 2, 150], [a, b, x0] = [90, 110, 50]
 
 ```
 <div align="center">

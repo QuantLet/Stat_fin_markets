@@ -17,7 +17,7 @@ Author: Daniel Traian Pele
 
 Submitted: Fri, 22 March 2019
 
-Input:  S_min - Lower Bound of Asset Price S,
+Input: S_min - Lower Bound of Asset Price S, S_max - Upper Bound of Asset Price S, tau_min - Lower Bound of Time to Maturity tau, tau_max - Upper Bound of Time to Maturity tau
 
 Output: Plot of gamma as a function of S and tau.
 

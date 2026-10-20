@@ -17,9 +17,9 @@ Author: Daniel Traian Pele
 
 Submitted: Fri, 24 March 2019
 
-Input: dt - Delta t
+Input: dt - Delta t c - Constant c k - Number of Trajectories
 
-Output:  Plot of Wiener process.
+Output: Plot of Wiener process.
 
 Example: Simulated Wiener processes with parameters dt=0.25, c=1 and k=3.
 

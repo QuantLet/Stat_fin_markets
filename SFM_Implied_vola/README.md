@@ -17,7 +17,7 @@ Author: Daniel Traian Pele
 
 Submitted: Sun, 24 March 2019
 
-Input: K-strike price, start_date - start date of the option, end_date-end date of the option,
+Input: K-strike price, start_date - start date of the option, end_date-end date of the option, S - asset price, r -risk free rate, cp=c - call option.
 
 Output: Implied volatility
 

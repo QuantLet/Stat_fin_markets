@@ -17,11 +17,11 @@ Author: Daniel Traian Pele
 
 Submitted: Fri, 22 March 2019
 
-Input: S_min - Lower Bound of Asset Price S
+Input: S_min - Lower Bound of Asset Price S S_max - Upper Bound of Asset Price S tau_min - Lower Bound of Time to Maturity tau tau_max - Upper Bound of Time to Maturity tau
 
 Output: Parameters of the CIR model and forecasted values of the ROBOR_3m.
 
-Example: User inputs [lower, upper] bound of Asset price S like
+Example: User inputs [lower, upper] bound of Asset price S like [50,150], [lower, upper] bound of time to maturity tau like [0.01, 1], then plot of the vega of a call option is given.
 
 ```
 <div align="center">

@@ -23,6 +23,6 @@ Output: Backtesting tests.
 
 Dataset: VAR.csv
 
-Example: Compare the VaR forecasts performance of the following models: Empirical VaR 1%, Normal GARCH (1,1) 1%, Student GARCH (1,1) 1%.
+Example: Compare the VaR forecasts performance of the following models: Empirical VaR 1%, Normal GARCH (1,1) 1%, Student GARCH (1,1) 1%. %Cristoffersen(dataset=, v=,p=); dataset - the dataset, v=the estimated var, p=the significance level. %Christoffersen (v=var_garch_t_01, p=0.01); %Diebold_Mariano (v1=, v2=, p=); v1- VaR first model, v2-VaR second model, p=the significance level. %Diebold_Mariano (v1=var_empiric_01, v2=var_garch_t_01, p=0.01).
 
 ```

@@ -13,11 +13,11 @@ Description: SFM_vanna plots the vanna of a call option
 
 Keywords: Black Scholes, call, financial, greeks, option, vanna
 
-Input:  S_min - Lower Bound of Asset Price S
+Input: S_min - Lower Bound of Asset Price S S_max - Upper Bound of Asset Price S tau_min - Lower Bound of Time to Maturity tau tau_max - Upper Bound of Time to Maturity tau
 
 Output: plot of the vanna of a call option
 
-Example: User inputs [lower, upper] bound of Asset price S like
+Example: User inputs [lower, upper] bound of Asset price S like [50,150], [lower, upper] bound of time to maturity tau like [0.01, 1], then plot of the vanna of a call option is given.
 
 Author: Daniel Traian Pele
 

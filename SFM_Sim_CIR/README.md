@@ -17,7 +17,7 @@ Author: Daniel Traian Pele
 
 Submitted: Fri, 22 March 2019
 
-Input: n - the number of observations
+Input: n - the number of observations a - the rate at which the process mean reverts sigma -  the volatility b - the long run average interest rate
 
 Output: Plot of simulated CIR process dr{t}=a(b-r_{t})dt+sigma*sqrt{r_{t}}dW_{t}.
 

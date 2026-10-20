@@ -9,7 +9,7 @@ Name of Quantlet: SFM_Week_effect_bitcoin
 
 Published in: Stat_fin_markets
 
-Description: Hypothesis: The bitcoin prices are likely to fall on Monday, i.e. the closing
+Description: Hypothesis: The bitcoin prices are likely to fall on Monday, i.e. the closing price of Monday is less than the bitcoin price of the previous Friday.
 
 Keywords: Bitcoin, Finance, Week effect, EMH anomaly
 

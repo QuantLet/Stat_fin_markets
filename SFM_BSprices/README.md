@@ -17,9 +17,9 @@ Author: Daniel Traian Pele
 
 Submitted: Fri, 22 March 2019
 
-Output: Plot of the Call Black-Scholes price as a function of a
+Output: Plot of the Call Black-Scholes price as a function of a Brownian Motion S_t.
 
-Example: The plot is generated for the following parameter values:
+Example: The plot is generated for the following parameter values: S0=100, K=110, r=0.05, si=0.3, tau=0.02.
 
 ```
 <div align="center">

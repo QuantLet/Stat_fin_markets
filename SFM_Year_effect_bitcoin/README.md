@@ -9,7 +9,7 @@ Name of Quantlet: SFM_Year_effect_bitcoin
 
 Published in: Stat_fin_markets
 
-Description: This anomaly describes the increase in the prices of the Bitcoin
+Description: This anomaly describes the increase in the prices of the Bitcoin in the last week of December and the first half month of January.
 
 Keywords: Bitcoin, Finance, Year effect, EMH anomaly
 
